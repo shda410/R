@@ -1,0 +1,30 @@
+01일차 (R(다운로드,내용), 기본형(할당연산자, 산술연산자, NA, NULL 등), vector 정의 및 함수, 형변환, type 확인(mode,class,str)).txt
+02일차 (list,matrix,array,factor,data.frame).txt
+03일차 (csv파일처리, 문자함수, 숫자함수, 날짜함수).txt
+04일차 (날짜함수,오름차순,내림차순).txt
+05일차 (그룹함수, aggregate, rowSums, rowMeans, colSums, colMeans, apply, lapply, tapply).txt
+06일차 (제어문, 반복문).txt
+07일차 (함수,merge).txt
+08일차 (subset, sqldf).txt
+09일차 (plyr (ddply,summarise,transfprm), dplyr(filter, select, mutate)).txt
+10일차 (reshape(melt, dcast), stringr(str_detect, str_c, str_count, str_dup, str_length,str_locate,str_sub ...),grep.txt
+11일차 (통계, pie, 막대그래프, 3차원 pie, 누적스택).txt
+12일차 (group bar chart).txt
+14일차 (분할표(table, xtabs, prop.table, margin.table), 산점도, scan(), 도수분포표).txt
+15일차 (히스토그램, 줄기잎 그래프, ggplot, ggmap).txt
+16일차 (파일 불러오기(read.csv),애니메이션).txt
+17일차 (JAVA JRE 설치, RJDBC, ggplot).txt
+18일차 (단어 (KONLP), 품사정보  (simplePos9), wordcloud, 제주도).txt
+19일차 (지도).txt
+20일차 (웹스크롤링).txt
+21일차 (말뭉치).txt
+22일차 (히스토그램, 머신러닝, KNN).txt
+23일차 (표준화(Z,max-min), 검증(crosstable)).txt
+24일차 (평균 (산술,가중,기하,조화,절사), 중앙값, 최빈값, 분산, 표준편차).txt
+25일차 (표준화, T점수, 확률(한계, 결합, 조건부, 조합, 순열)).txt
+26일차 (베이지안 이론).txt
+27일차 ( 데이터 분석 spam vs ham).txt
+java path.txt
+R_ORACLE.txt
+문제풀이.txt
+함수짜기(KNN).txt
